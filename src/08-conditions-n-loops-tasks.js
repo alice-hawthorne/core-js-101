@@ -502,35 +502,6 @@ function getMatrixProduct(/* m1, m2 */) {
  */
 function evaluateTicTacToePosition(/* position */) {
   throw new Error('Not implemented');
-  // let res;
-  // switch ('X') {
-  //   case (position[0][0] && position[0][1] && position[0][2]):
-  //   case (position[1][0] && position[1][1] && position[1][2]):
-  //   case (position[2][0] && position[2][1] && position[2][2]):
-  //   case (position[0][0] && position[1][0] && position[2][0]):
-  //   case (position[0][1] && position[1][1] && position[2][1]):
-  //   case (position[0][2] && position[1][2] && position[1][2]):
-  //   case (position[0][0] && position[1][1] && position[2][2]):
-  //   case (position[0][2] && position[1][2] && position[2][0]):
-  //     res = 'X';
-  //     break;
-  //   default:
-  // }
-  // switch ('0') {
-  //   case (position[0][0] && position[0][1] && position[0][2]):
-  //   case (position[1][0] && position[1][1] && position[1][2]):
-  //   case (position[2][0] && position[2][1] && position[2][2]):
-  //   case (position[0][0] && position[1][0] && position[2][0]):
-  //   case (position[0][1] && position[1][1] && position[2][1]):
-  //   case (position[0][2] && position[1][2] && position[1][2]):
-  //   case (position[0][0] && position[1][1] && position[2][2]):
-  //   case (position[0][2] && position[1][2] && position[2][0]):
-  //     res = '0';
-  //     break;
-  //   default:
-  // }
-  // console.log(res);
-  // return res;
 }
 
 
